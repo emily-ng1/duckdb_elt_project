@@ -19,9 +19,9 @@ API → JSON → DataFrame → CSV (Raw Layer) → DuckDB → Staging → Interm
 
 ## Technology Used
 - Programming Language - Python, SQL
-- Storage/ Query Engine - DuckDB
 - Data Source - Makeup API
 - File Format - CSV
+- Storage/ Query Engine - DuckDB
 
 ## Dataset Used
 https://makeup-api.herokuapp.com/
